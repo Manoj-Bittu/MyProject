@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 969A-4698
+
+ Directory of C:\Users\makumar\Desktop\MyProject
+
+05/08/2023  03:28 PM    <DIR>          .
+05/08/2023  03:23 PM    <DIR>          ..
+05/08/2023  03:28 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   8,706,244,608 bytes free
